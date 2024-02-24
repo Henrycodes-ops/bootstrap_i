@@ -1,0 +1,7 @@
+$primary: #785568 !default;
+.my-heading{
+  font-size: 40px;
+  color: $primary;
+}
+
+@import url('./node_modules/bootstrap/scss/bootstrap.scss');

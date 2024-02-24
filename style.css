@@ -1,0 +1,5 @@
+@import url("./node_modules/bootstrap/scss/bootstrap.scss");
+.my-heading {
+  font-size: 40px;
+  color: #785568;
+}
